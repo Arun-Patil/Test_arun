@@ -32,7 +32,7 @@
        <param name="key" value="willoughby"/>
     </feature>
 
-    <preference name="phonegap-version" value="5.1.1" />
+    <preference name="phonegap-version" value="3.7.0" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
     <preference name="webviewbounce"    value="false" />
